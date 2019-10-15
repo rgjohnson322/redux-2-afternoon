@@ -55,6 +55,8 @@ class AddPurchase extends Component {
             <option value="food">Food</option>
             <option value="rent">Rent</option>
             <option value="gas">Gas</option>
+            <option value="fun">Fun</option>
+            <option value="notfun">notfun</option>
           </select>
           <section>
             <div className="input-group mb-3 mt-4">
